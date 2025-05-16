@@ -1,0 +1,23 @@
+{
+  "total_customers": 500,
+  "expected_churns": 2,
+  "average_age": {
+    "churn": 59.5,
+    "non_churn": 41.88
+  },
+  "average_watch_time": {
+    "churn": 0.0,
+    "non_churn": 127.56
+  },
+  "average_days_since_login": {
+    "churn": 37.5,
+    "non_churn": 30.17
+  },
+  "genre_distribution": {
+    "드라마": 103,
+    "영화": 86,
+    "애니메이션": 102,
+    "예능": 106,
+    "다큐멘터리": 103
+  }
+}
